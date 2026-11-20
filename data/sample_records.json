@@ -1,0 +1,47 @@
+[
+  {
+    "id": "001",
+    "law": "Code on Wages, 2019",
+    "section": null,
+    "old_law": "Payment of Wages Act, 1936",
+    "old_section": null,
+    "topic": "Wages and statutory wage calculation",
+    "effective_from": "2025-11-21"
+  },
+  {
+    "id": "002",
+    "law": "Code on Wages, 2019",
+    "section": null,
+    "old_law": "Minimum Wages Act, 1948",
+    "old_section": null,
+    "topic": "Minimum wages",
+    "effective_from": "2025-11-21"
+  },
+  {
+    "id": "003",
+    "law": "Industrial Relations Code, 2020",
+    "section": null,
+    "old_law": "Industrial Disputes Act, 1947",
+    "old_section": null,
+    "topic": "Industrial relations",
+    "effective_from": "2025-11-21"
+  },
+  {
+    "id": "004",
+    "law": "Code on Social Security, 2020",
+    "section": null,
+    "old_law": "Employees' Provident Funds and Miscellaneous Provisions Act, 1952",
+    "old_section": null,
+    "topic": "Social security and provident funds",
+    "effective_from": "2025-11-21"
+  },
+  {
+    "id": "005",
+    "law": "Occupational Safety, Health and Working Conditions Code, 2020",
+    "section": null,
+    "old_law": "Factories Act, 1948",
+    "old_section": null,
+    "topic": "Occupational safety and working conditions",
+    "effective_from": "2025-11-21"
+  }
+]

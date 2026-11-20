@@ -12,7 +12,7 @@ These 10 questions become my first evaluation set in Week 3. Question 6 is not a
 | 4 | Our CTC structure is 35% basic, 25% HRA and 40% allowances. What changes under the new 'wages' definition, and how does it affect PF and gratuity for a Rs 8 lakh CTC employee? | multi-step (several pages) | TODO: document, page | Yes |
 | 5 | Compare fixed-term employment rules before and after the codes. | comparison | TODO: document, page | Yes |
 | 6 | Will our employees accept the new salary structure? | unanswerable: must reply "I don't know" | none: not in any document | - |
-| 7 | TODO: write a real question your user would type | | TODO | |
-| 8 | TODO: write a real question your user would type | | TODO | |
-| 9 | TODO: write a real question your user would type | | TODO | |
-| 10 | TODO: write a real question your user would type | | TODO | |
+| 7 | Which old wage laws are consolidated into the Code on Wages, 2019? | simple | Code on Wages, 2019; Table of repeals | No |
+| 8 | How do the Industrial Relations Code rules affect a fixed-term employee? | comparison | Industrial Relations Code, 2020; central rules; relevant sections | Yes |
+| 9 | What social security coverage applies to gig and platform workers in my company? | multi-step | Code on Social Security, 2020; central rules | Yes |
+| 10 | Is there a Tamil Nadu-specific rule for setting up and maintaining a first-aid box? | simple | Tamil Nadu occupational safety rules; OSH Code, 2020 | No |
